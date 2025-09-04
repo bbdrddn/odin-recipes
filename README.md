@@ -3,16 +3,18 @@ The Odin Project's Fundamental HTML capstone project, where we create a recipe w
 
 --- A FEW WORDS / REFLECTIONS / DEBRIEF BEFORE CONCLUDING THE FUNDAMENTALS OF HTML ---
 
-- STARTING OUT ON THIS PROJECT I ACTUALLY HAD QUITE A HEADSTART. SOMETHING ALONG THE LINES OF ALREADY WENT THROUGH A LITTLE BIT OF HTML BASICS AND CSS THROUGH AN UDEMY COURSE A FRIEND GAVE ME BACK IN 2023 (WHICH AT THAT POINT I STILL HAVE COLD FEET FOR SOME REASON, BUT NO MATTER WE MANAGED TO TYPE SOMETHING DOWN NOW). HOWEVER, AT THAT TIME I WAS NOT VERY SERIOUS AND HONESTLY DID NOT REALLY INDULGE INTO MY FLOW-STATE LEARNING WISE AND SO IT JUST DRIFTS AWAY. THIS TIME AROUND I DID THE VERY OPPOSITE, ALL IT TOOK ME WAS A 7 HOURS STINT WITH A 2 HOUR BREAK IN ADVANCE. AND I NOTED DOWN EVERY KEY THING AND JUST NOT TRY TO TRANSFER TEXT TO PAPER THE ENTIRE LECTURE. BASICALLY MAKING AN ALMANAC OF THE ELEMENTS/TAGS. AND WITHOUT SPIRALING ANY FURTHER, AFTER COMPLETING THIS PROJECT, WE CAN CONCLUDE HTML WITH THE FOLLOWING TECHNIQUES / KNOWLEDGE EARNED:
+--- a few words / reflections / debrief before concluding the fundamentals of html ---
 
-1. BEING ABLE TO ESTABLISH AN HTML5 BOILERPLATE WETHER MANUALLY OR WITH VSCODE HOTKEY (! + ENTER)
+- Starting out on this project i actually had quite a headstart. something along the lines of already went through a little bit of html basics and css through an udemy course a friend gave me back in 2023 (which at that point i still have cold feet for some reason, but no matter we managed to type something down now). however, at that time i was not very serious and honestly did not really indulge into my flow-state learning wise and so it just drifts away. this time around i did the very opposite, all it took me was a 7 hours stint with a 2 hour break in advance. and i noted down every key thing and just not try to transfer text to paper the entire lecture. basically making an almanac of the elements/tags. and without spiraling any further, after completing this project, we can conclude html with the following techniques / knowledge earned:
 
-2. BEING ABLE TO UNDERSTAND, USE AND MODIFY HTML ELEMENTS AND TAGS TO PRESENT INFORMATION
+1. being able to establish an html5 boilerplate wether manually or with vscode hotkey (! + enter)
 
-3. BEING ABLE TO MODIFY HTML VOID TAGS AND GIVE IT VALUES , RESULTING IN A TAG DISPLAYING CLICKABLE LINKS, OR PRESENT IMAGES
+2. being able to understand, use and modify html elements and tags to present information
 
-4. BEING ABLE TO LINK TAGS WITH ABSOLUTE SOURCES (WHICH ARE INTERNET DOMAINS) & RELATIVE SOURCES (WITHIN THE WEBPAGE FILE PATH OR OUTSIDE OF IT)
+3. being able to modify html void tags and give it values , resulting in a tag displaying clickable links, or present images
 
-5. BEING ABLE TO UTILIZE GIT TO STAGE, SAVE CHANGES, COMMIT, AND PUSH THEM TO REMOTE REPOSITORIES LIKE GITHUB
+4. being able to link tags with absolute sources (which are internet domains) & relative sources (within the webpage file path or outside of it)
 
-6. BEING ABLE TO WRITE PROFESSIONAL, MEANINGFUL COMMIT MESSAGES 
+5. being able to utilize git to stage, save changes, commit, and push them to remote repositories like github
+
+6. being able to write professional, meaningful commit messages
